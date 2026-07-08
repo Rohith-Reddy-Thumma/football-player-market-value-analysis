@@ -1,0 +1,42 @@
+Column Name,Description,Variable Type
+Name,Player’s name.,Qualitative
+Age,Player’s age in years.,Quantitative
+Nationality,Player’s country of origin.,Qualitative
+Club,Football club the player is associated with.,Qualitative
+Value,Market value of the player .,Quantitative
+Wage,Weekly wage of the player .,Quantitative
+Position,"Player’s field position (e.g., ST, CM, GK).",Qualitative
+Crossing,Ability to deliver crosses into the box  .,Quantitative
+Finishing,Ability to score goals in one-on-one or shooting situations  .,Quantitative
+HeadingAccuracy,Accuracy of heading the ball  .,Quantitative
+ShortPassing,Accuracy of short-distance passes  .,Quantitative
+Volleys,Accuracy of volleyed shots  .,Quantitative
+Dribbling,Ability to control and maneuver the ball past opponents  .,Quantitative
+Curve,Ability to curve the ball in passes or shots  .,Quantitative
+FKAccuracy,Free-kick shooting accuracy  .,Quantitative
+LongPassing,Ability to make long-distance passes  .,Quantitative
+BallControl,Ability to control the ball upon receiving it  .,Quantitative
+Acceleration,Speed at which the player reaches their top speed  .,Quantitative
+SprintSpeed,Maximum running speed  .,Quantitative
+Agility,Ability to turn and move quickly  .,Quantitative
+Reactions,How quickly the player responds to situations  .,Quantitative
+Balance,Ability to stay upright when under pressure  .,Quantitative
+ShotPower,Power behind the player's shots  .,Quantitative
+Jumping,Ability to jump high  .,Quantitative
+Stamina,Ability to sustain effort over a match  .,Quantitative
+Strength,Physical strength and ability to hold off opponents  .,Quantitative
+LongShots,Accuracy of shots taken from long distances  .,Quantitative
+Aggression,Tendency to apply pressure and make tackles  .,Quantitative
+Interceptions,Ability to read the game and intercept passes  .,Quantitative
+Positioning,Ability to find good positions during attacking plays  .,Quantitative
+Vision,Ability to see passing opportunities and space  .,Quantitative
+Penalties,Accuracy in taking penalty kicks  .,Quantitative
+Composure,Ability to stay calm in pressure situations  .,Quantitative
+Marking,Ability to track and cover opposing players  .,Quantitative
+StandingTackle,Ability to win tackles while standing  .,Quantitative
+SlidingTackle,Ability to win tackles using a sliding technique  .,Quantitative
+GKDiving,Goalkeeper’s diving ability  .,Quantitative
+GKHandling,Goalkeeper’s ability to catch and hold onto the ball  .,Quantitative
+GKKicking,Goalkeeper’s ability to kick the ball accurately  .,Quantitative
+GKPositioning,Goalkeeper’s ability to position themselves correctly  .,Quantitative
+GKReflexes,Goalkeeper’s reaction time to shots  .,Quantitative
